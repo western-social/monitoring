@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/western-social/monitoring/master/western.social-logo.png
   name: western.social
   introTitle: "western.social - Site Monitoring"
-  introMessage: This is a website status page https://western.social hosted sites.
+  introMessage: This is a website status page for [https://western.social](https://western.social) hosted sites.
   navbar:
     - title: Status
       href: /
