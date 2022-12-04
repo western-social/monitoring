@@ -40,9 +40,9 @@
     "url": "https://ca.social",
     "icon": "https://icons.duckduckgo.com/ip3/ca.social.ico",
     "slug": "ca-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 474,
     "timeMonth": 424,
     "timeYear": 424,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-04": 0
+    }
   },
   {
     "name": "co.social",
@@ -76,18 +78,20 @@
     "url": "https://tx.social",
     "icon": "https://icons.duckduckgo.com/ip3/tx.social.ico",
     "slug": "tx-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 263,
-    "timeWeek": 485,
-    "timeMonth": 488,
-    "timeYear": 488,
-    "dailyMinutesDown": {}
+    "time": 475,
+    "timeDay": 274,
+    "timeWeek": 460,
+    "timeMonth": 475,
+    "timeYear": 475,
+    "dailyMinutesDown": {
+      "2022-12-04": 0
+    }
   },
   {
     "name": "wa.social",
