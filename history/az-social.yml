@@ -1,7 +1,7 @@
 url: https://az.social
-status: up
-code: 200
-responseTime: 512
-lastUpdated: 2022-12-08T23:11:56.227Z
+status: down
+code: 502
+responseTime: 396
+lastUpdated: 2022-12-09T13:53:42.028Z
 startTime: Wed Nov 23 2022 13:09:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
